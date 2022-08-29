@@ -1,0 +1,10 @@
+{
+    "ownership": "recommended",
+    "suppress_bundle_relocation": true,
+    "identifier": "com.github.macadmins.privileges.demote",
+    "postinstall_action": "none",
+    "distribution_style": true,
+    "version": "1.0",
+    "name": "Privileges_LaunchAgents.1.0.pkg",
+    "install_location": "/"
+}
